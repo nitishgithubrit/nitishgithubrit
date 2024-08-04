@@ -1,10 +1,10 @@
 
 
-<div align="center"> <img src="https://github.com/uy154788/uy154788/blob/main/Screenshot%202024-05-03%20210605.png"> </div>
+<div align="center"> <img src="https://github.com/nitishgithubrit/uy154788/blob/main/Screenshot%202024-05-03%20210605.png"> </div>
  <h3 align="center">A passionate C++ programmer </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=uy154788&label=Profile%20views&color=0e75b6&style=flat" alt="uy154788" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nitishgithubrit&label=Profile%20views&color=0e75b6&style=flat" alt="nitishgithubrit" /> </p>
 
- <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=uy154788&row=1&column=9&theme=onedark&no-frame=false&no-bg=false&margin-w=15&margin-h=15-ma&theme=discord" alt="uy154788" /> </a>
+ <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=nitishgithubrit&row=1&column=9&theme=onedark&no-frame=false&no-bg=false&margin-w=15&margin-h=15-ma&theme=discord" alt="nitishgithubrit" /> </a>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <a href="https://twitter.com/uy154788" target="blank"><img src="https://img.shields.io/twitter/follow/uy154788?logo=twitter&style=for-the-badge" alt="uy154788" /></a> </p>
@@ -32,8 +32,6 @@
 <a href="https://www.linkedin.com/in/upendra-yadav-157338241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/upendra-yadav-157338241/" height="30" width="40" /></a> 
   <a href="https://www.instagram.com/yaduvansh_upendra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yaduvansh_upendra" height="30" width="40" /></a>
  <a href="https://twitter.com/uy154788" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="uy154788" height="30" width="40" /></a> 
-<a href="https://www.kaggle.com/upendrayadav1411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/upendrayadav1411" height="30" width="40" /></a>
-<a href="https://codepen.io/Upendra-Yadav-the-lessful" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@Upendra-Yadav-the-lessful" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/24857458/upendra-yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/24857458/upendra-yadav" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/uy154788" target="blank"><img align="center" src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062020/codeforces_logo.png?Qlx1_zCw.Q4T7PHPosbkLyNiBJQWX7GD&itok=6wPhjh1X" alt="uy154788" height="30" width="40" /></a>
 </p>
@@ -78,6 +76,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uy154788&" alt="uy154788" /></p>  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uy154788&show_icons=true&locale=en" alt="uy154788" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uy154788&show_icons=true&locale=en&layout=compact" alt="uy154788" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitishgithubrit&" alt="nitishgithubrit" /></p>  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitishgithubrit&show_icons=true&locale=en" alt="nitishgithubrit" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitishgithubrit&show_icons=true&locale=en&layout=compact" alt="nitishgithubrit" /></p>
