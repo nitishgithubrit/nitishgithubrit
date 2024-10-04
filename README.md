@@ -2,6 +2,7 @@
 
 <div align="center"> <img src="https://github.com/nitishgithubrit/uy154788/blob/main/Screenshot%202024-05-03%20210605.png"> </div>
  <h3 align="center">A passionate C++ programmer </h3>
+  <h3 align="center">A passionate Java programmer </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitishgithubrit&label=Profile%20views&color=0e75b6&style=flat" alt="nitishgithubrit" /> </p>
 
  <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=nitishgithubrit&row=1&column=9&theme=onedark&no-frame=false&no-bg=false&margin-w=15&margin-h=15-ma&theme=discord" alt="nitishgithubrit" /> </a>
@@ -10,27 +11,27 @@
 <p align="left"> <a href="https://twitter.com/uy154788" target="blank"><img src="https://img.shields.io/twitter/follow/uy154788?logo=twitter&style=for-the-badge" alt="uy154788" /></a> </p>
 
 
-- 🔭 I’m currently working on **Machine Learning Projects**
+- 🔭 I’m currently working on **Web Development Projects**
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Reactt js, Node js, Chatgpt**
 
-- 👯 I’m looking to collaborate on **Web Development Project Idea's**
+- 👯 I’m looking to collaborate on **Java Project Idea's**
 
-- 💬 Ask me about **Python, Machine Learning, Data Science**
+- 💬 Ask me about **c++, Web Development, Java**
 
-- 📫 How to reach me **uy154788@gmail.com**
+- 📫 How to reach me **nitishkm1702@gmail.com**
 
-- ⚡ Fun fact **I think I am Handsome(True)**
+- ⚡ Fun fact **Just beleive in you,after all it is what maters(True)**
 - 
 # Connect with me
 <p align="left">
-<a href="https://www.geeksforgeeks.org/user/uy1544y0c/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/uy1544y0c/" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/uy_154788/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="https://leetcode.com/u/uy_154788/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/uy_154788" target="blank"><img align="center" src="https://cdn.dribbble.com/users/70628/screenshots/1743345/codechef.png" alt="https://www.codechef.com/users/uy_154788" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/nitishk545m/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/nitishk545m/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/nitish75/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="https://leetcode.com/u/nitish75/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/krish965" target="blank"><img align="center" src="https://cdn.dribbble.com/users/70628/screenshots/1743345/codechef.png" alt="https://www.codechef.com/users/krish965" height="30" width="40" /></a>
 <a href="https://www.naukri.com/code360/profile/4e360aa0-3d2d-4147-b3c6-d040544102bd" target="blank"><img align="center" src="https://www.financialexpress.com/wp-content/uploads/2023/05/APIS-and-NxtWave-image-37-3.jpg" alt="https://www.naukri.com/code360/profile/4e360aa0-3d2d-4147-b3c6-d040544102bd" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/uy154788" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@uy154788" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/upendra-yadav-157338241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/upendra-yadav-157338241/" height="30" width="40" /></a> 
-  <a href="https://www.instagram.com/yaduvansh_upendra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yaduvansh_upendra" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/@nitishkm1702" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@nitishkm1702" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nitish-kumar-706378251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nitish-kumar-706378251/" height="30" width="40" /></a> 
+  <a href="https://www.instagram.com/@kmnitish5989/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@kmnitish5989" height="30" width="40" /></a>
  <a href="https://twitter.com/uy154788" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="uy154788" height="30" width="40" /></a> 
 <a href="https://stackoverflow.com/users/24857458/upendra-yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/24857458/upendra-yadav" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/uy154788" target="blank"><img align="center" src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062020/codeforces_logo.png?Qlx1_zCw.Q4T7PHPosbkLyNiBJQWX7GD&itok=6wPhjh1X" alt="uy154788" height="30" width="40" /></a>
