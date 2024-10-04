@@ -32,9 +32,8 @@
 <a href="https://www.hackerrank.com/profile/@nitishkm1702" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@nitishkm1702" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/nitish-kumar-706378251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nitish-kumar-706378251/" height="30" width="40" /></a> 
   <a href="https://www.instagram.com/@kmnitish5989/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@kmnitish5989" height="30" width="40" /></a>
- <a href="https://twitter.com/uy154788" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="uy154788" height="30" width="40" /></a> 
-<a href="https://stackoverflow.com/users/24857458/upendra-yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/24857458/upendra-yadav" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/uy154788" target="blank"><img align="center" src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062020/codeforces_logo.png?Qlx1_zCw.Q4T7PHPosbkLyNiBJQWX7GD&itok=6wPhjh1X" alt="uy154788" height="30" width="40" /></a>
+ <a href="https://twitter.com/@nitishkm1702" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@nitishkm1702" height="30" width="40" /></a> 
+
 </p>
 
 ## All DSA Badges @LeetCode
