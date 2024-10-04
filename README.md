@@ -8,7 +8,7 @@
  <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=nitishgithubrit&row=1&column=9&theme=onedark&no-frame=false&no-bg=false&margin-w=15&margin-h=15-ma&theme=discord" alt="nitishgithubrit" /> </a>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<p align="left"> <a href="https://twitter.com/uy154788" target="blank"><img src="https://img.shields.io/twitter/follow/uy154788?logo=twitter&style=for-the-badge" alt="uy154788" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@nitishkm1702" target="blank"><img src="https://img.shields.io/twitter/follow/@nitishkm1702?logo=twitter&style=for-the-badge" alt="@nitishkm1702" /></a> </p>
 
 
 - 🔭 I’m currently working on **Web Development Projects**
