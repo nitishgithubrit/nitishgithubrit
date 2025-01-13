@@ -1,6 +1,6 @@
 
 
-<div align="center"> <img src="https://github.com/nitishgithubrit/uy154788/blob/main/Screenshot%202024-05-03%20210605.png"> </div>
+<div align="center"> <img src="https://github.com/nitishgithubrit/blob/main/Screenshot%202024-05-03%20210605.png"> </div>
  <h3 align="center">A passionate C++ programmer </h3>
   <h3 align="center">A passionate Java programmer </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitishgithubrit&label=Profile%20views&color=0e75b6&style=flat" alt="nitishgithubrit" /> </p>
